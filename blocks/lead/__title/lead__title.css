@@ -7,13 +7,13 @@
   margin: 0 0 32px;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 750px) {
   .lead__title {
-    font-size: calc(40px + 56 * ((100vw - 320px) / 447));
+    font-size: calc(40px + 56 * ((100vw - 320px) / 430));
   }
 }
 
-@media screen and (max-width: 631px) {
+@media screen and (max-width: 614px) {
   .lead__title {
     line-height: 1.1;
     margin-bottom: 16px;

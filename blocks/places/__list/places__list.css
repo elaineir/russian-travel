@@ -6,13 +6,13 @@
   row-gap: 80px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1006px) {
   .places__list {
     row-gap: 73px;
   }
 }
 
-@media screen and (max-width: 631px) {
+@media screen and (max-width: 614px) {
   .places__list {
     row-gap: 49px;
   }

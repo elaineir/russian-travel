@@ -5,15 +5,15 @@
   margin: 0;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1006px) {
   .places__title {
-    font-size: calc(42px + 30 * ((100vw - 768px) / 255));
+    font-size: calc(42px + 30 * ((100vw - 768px) / 238));
     line-height: 1.12;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 750px) {
   .places__title {
-    font-size: calc(32px + 10 * ((100vw - 320px) / 447));
+    font-size: calc(32px + 10 * ((100vw - 320px) / 430));
   }
 }

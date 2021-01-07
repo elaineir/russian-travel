@@ -5,14 +5,14 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1006px) {
   .footer {
     padding-right: 24px;
     padding-left: 24px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 750px) {
   .footer {
     flex-direction: column;
     padding-right: 16px;
